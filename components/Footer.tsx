@@ -20,9 +20,9 @@ const Footer = () => {
         <p>Teams</p>
         </div>
         <div>
-            <Link className='text-[#316FF6]' href={""}><Facebook/></Link>
-            <Link className='mx-6 text-[#0077B5]' href={""}><LinkedIn/></Link>
-            <Link className='text-[#d62976]' href={""}><Instagrame/></Link>
+            <Link className='text-[#316FF6]' href={"https://en-gb.facebook.com/moizahmed.shiakh"}><Facebook/></Link>
+            <Link className='mx-6 text-[#0077B5]' href={"https://www.linkedin.com/in/moiz-ahmed-6516b728a/"}><LinkedIn/></Link>
+            <Link className='text-[#d62976]' href={"https://www.instagram.com/moizahmed_shaikh/?hl=en"}><Instagrame/></Link>
 
         </div>
     </footer>
